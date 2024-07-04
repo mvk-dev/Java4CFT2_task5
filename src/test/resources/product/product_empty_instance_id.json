@@ -1,0 +1,27 @@
+{
+  "instanceId": "999",
+  "sequence": 1,
+  "productType": "НСО",
+  "productCode": "test_03.012.002",
+  "registerType": 49,
+  "mdmCode": "15",
+  "contractNumber": "CN123456789",
+  "contractDate": "2023-06-29",
+  "priority": 0,
+  "interestRatePenalty": 2.5,
+  "minimalBalance": 1000.0,
+  "thresholdAmount": 5000.0,
+  "accountingDetails": "Detail1",
+  "rateType": "Fixed",
+  "taxPercentageRate": 15.0,
+  "technicalOverdraftLimitAmount": 200.0,
+  "contractId": 456,
+  "branchCode": "0022",
+  "isoCurrencyCode": "800",
+  "urgencyCode": "00",
+  "referenceCode": 789,
+  "additionalPropertiesVip": [
+  ],
+  "instanceArrangement": [
+  ]
+}

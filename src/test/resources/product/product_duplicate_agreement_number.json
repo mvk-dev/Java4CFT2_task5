@@ -1,0 +1,52 @@
+{
+  "instanceId": "",
+  "sequence": 1,
+  "productType": "НСО",
+  "productCode": "03.012.002",
+  "registerType": 49,
+  "mdmCode": "15",
+  "contractNumber": "testProduct_2",
+  "contractDate": "2023-06-29",
+  "priority": 0,
+  "interestRatePenalty": 2.5,
+  "minimalBalance": 1000.0,
+  "thresholdAmount": 5000.0,
+  "accountingDetails": "Detail1",
+  "rateType": "Fixed",
+  "taxPercentageRate": 15.0,
+  "technicalOverdraftLimitAmount": 200.0,
+  "contractId": 456,
+  "branchCode": "0022",
+  "isoCurrencyCode": "800",
+  "urgencyCode": "00",
+  "referenceCode": 789,
+  "additionalPropertiesVip": [
+  ],
+  "instanceArrangement": [
+    {
+      "generalAgreementId": "GA123",
+      "supplementaryAgreementId": "SA456",
+      "arrangementType": "Type1",
+      "schedulerJobId": 101,
+      "sequence": 1,
+      "number": "testAgr_1",
+      "openingDate": "2023-01-01",
+      "closingDate": "2023-12-31",
+      "cancelDate": "2023-06-01",
+      "validityDuration": 12,
+      "cancellationReason": "Reason1",
+      "status": "OPEN",
+      "interestCalculationDate": "2023-06-30",
+      "interestRate": 5.75,
+      "coefficient": 1.5,
+      "coefficientAction": "Increase",
+      "minimumInterestRate": 2.0,
+      "minimumInterestRateCoefficient": "Coef1",
+      "minimumInterestRateCoefficientAction": "Maintain",
+      "maximalInterestRate": 10.0,
+      "maximalInterestRateCoefficient": 2.5,
+      "maximalInterestRateCoefficientAction": "Limit"
+
+    }
+  ]
+}
